@@ -1,0 +1,4 @@
+# dsh-lab: registers the lab cockpit plugin row for the web profile.
+- insert:
+    - id: lab
+      name: dsh-lab
